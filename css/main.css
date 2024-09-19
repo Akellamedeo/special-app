@@ -24,13 +24,5 @@ nav {
 
 a {
     text-decoration: none;
-<<<<<<< HEAD
-    color: rgb(96, 155, 101);
-}
-
-a:hover {
-    text-decoration: underline;
-=======
     color: black;
->>>>>>> new-contacts
 }
